@@ -1,5 +1,5 @@
 {
-    "name": "wdelfuego/nova-datetime",
+    "name": "sammakescode/nova-datetime",
     "description": "Makes working with DateTime fields in Laravel's Nova 4 easier",
     "type": "library",
     "license": "MIT",
